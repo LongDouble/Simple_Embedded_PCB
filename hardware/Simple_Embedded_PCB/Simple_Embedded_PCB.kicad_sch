@@ -6,7 +6,7 @@
 
   (title_block
     (title "STM32F103C8T6 Breakout Board")
-    (date "2022-10-19")
+    (date "2022-10-20")
     (company "Oregon State University")
     (comment 1 "Author: Austin Goergen")
   )
@@ -341,7 +341,7 @@
       (reference "R14") (unit 1) (value "15k") (footprint "")
     )
     (path "/162250f7-d927-4da0-b1ba-5afd7e082fc5/5e4f41e9-4e74-4f2d-82f3-2de6cd3e120c"
-      (reference "R15") (unit 1) (value "15k") (footprint "")
+      (reference "R15") (unit 1) (value "17.8k") (footprint "")
     )
     (path "/162250f7-d927-4da0-b1ba-5afd7e082fc5/05e65a5d-ce52-47f3-9961-d3f3c43d2b16"
       (reference "R16") (unit 1) (value "4.7k") (footprint "")
