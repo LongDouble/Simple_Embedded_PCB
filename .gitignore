@@ -53,3 +53,4 @@ dkms.conf
 
 hardware/Simple_Embedded_PCB/Simple_Embedded_PCB-backups/*
 hardware/Simple_Embedded_PCB/fp-info-cache
+*.kicad_prl
