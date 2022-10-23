@@ -47,7 +47,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 267.97 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 251e4cb3-db00-4ec3-a34f-8b668e19d569)
-    (property "Reference" "H?" (id 0) (at 270.51 156.2099 0)
+    (property "Reference" "H2" (id 0) (at 270.51 156.2099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 270.51 158.7499 0)
@@ -81,7 +81,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 267.97 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6419c0ec-89d6-4989-85fa-2ef10b705c33)
-    (property "Reference" "H?" (id 0) (at 270.51 161.2899 0)
+    (property "Reference" "H3" (id 0) (at 270.51 161.2899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 270.51 163.8299 0)
@@ -346,10 +346,10 @@
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
     )
     (path "/251e4cb3-db00-4ec3-a34f-8b668e19d569"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
     )
     (path "/6419c0ec-89d6-4989-85fa-2ef10b705c33"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/c5a8047f-af7b-4f40-b928-c92943f394a4"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal")
