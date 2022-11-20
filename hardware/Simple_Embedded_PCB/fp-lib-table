@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lib_footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "Simple_Embedded_PCB")(type "KiCad")(uri "${KIPRJMOD}/lib_footprints/Simple_Embedded_PCB.pretty")(options "")(descr ""))
+)

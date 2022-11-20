@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Simple_Embedded_PCB")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/Simple_Embedded_PCB.kicad_sym")(options "")(descr ""))
+)

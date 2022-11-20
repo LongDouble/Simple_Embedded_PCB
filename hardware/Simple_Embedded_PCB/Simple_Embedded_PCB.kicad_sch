@@ -53,7 +53,7 @@
     (property "Value" "MountingHole" (id 1) (at 270.51 158.7499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MySO:ToolingHole_JLCPCB" (id 2) (at 267.97 157.48 0)
+    (property "Footprint" "Simple_Embedded_PCB:ToolingHole_JLCPCB" (id 2) (at 267.97 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.97 157.48 0)
@@ -70,7 +70,7 @@
     (property "Value" "MountingHole" (id 1) (at 270.51 153.6699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MySO:ToolingHole_JLCPCB" (id 2) (at 267.97 152.4 0)
+    (property "Footprint" "Simple_Embedded_PCB:ToolingHole_JLCPCB" (id 2) (at 267.97 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.97 152.4 0)
@@ -87,7 +87,7 @@
     (property "Value" "MountingHole" (id 1) (at 270.51 163.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MySO:ToolingHole_JLCPCB" (id 2) (at 267.97 162.56 0)
+    (property "Footprint" "Simple_Embedded_PCB:ToolingHole_JLCPCB" (id 2) (at 267.97 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 267.97 162.56 0)
@@ -343,19 +343,19 @@
       (reference "D7") (unit 1) (value "SS34") (footprint "Diode_SMD:D_SMA")
     )
     (path "/2d52195a-901a-4e0b-9e79-ff221f8eb32f"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "Simple_Embedded_PCB:ToolingHole_JLCPCB")
     )
     (path "/251e4cb3-db00-4ec3-a34f-8b668e19d569"
-      (reference "H2") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "Simple_Embedded_PCB:ToolingHole_JLCPCB")
     )
     (path "/6419c0ec-89d6-4989-85fa-2ef10b705c33"
-      (reference "H3") (unit 1) (value "MountingHole") (footprint "MySO:ToolingHole_JLCPCB")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "Simple_Embedded_PCB:ToolingHole_JLCPCB")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/c5a8047f-af7b-4f40-b928-c92943f394a4"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/cb318a72-e149-40b8-837f-b3318ca06223"
-      (reference "J2") (unit 1) (value "SWD Connector") (footprint "MySO:Amphenol-20021121-0-0-0")
+      (reference "J2") (unit 1) (value "SWD Connector") (footprint "Simple_Embedded_PCB:Amphenol-20021121-0-0-0")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/4388cfac-9858-4550-bcf8-7b9773d01a84"
       (reference "J3") (unit 1) (value "Conn_01x09") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
@@ -373,7 +373,7 @@
       (reference "J7") (unit 1) (value "5.5mm X 2.1mm Jack") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/162250f7-d927-4da0-b1ba-5afd7e082fc5/97ff25a2-47d5-41e2-b087-6dbded30eaf2"
-      (reference "L1") (unit 1) (value "4.7uH") (footprint "MySO:SUNLORD_SWPA6045S4R7MT")
+      (reference "L1") (unit 1) (value "4.7uH") (footprint "Simple_Embedded_PCB:SUNLORD_SWPA6045S4R7MT")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/807ad40f-591c-4019-8343-f20234d91c3d"
       (reference "Q1") (unit 1) (value "AO3400A") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -436,13 +436,13 @@
       (reference "R18") (unit 1) (value "1") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/dc50db42-2c8e-43c5-a279-42a88593f19a"
-      (reference "S1") (unit 1) (value "TS-1187A-B-A-B") (footprint "MySO:SW_TS-1187A-B-A-B")
+      (reference "S1") (unit 1) (value "TS-1187A-B-A-B") (footprint "Simple_Embedded_PCB:SW_TS-1187A-B-A-B")
     )
     (path "/ae79c7b9-f7a9-43ca-b7bc-1b2649a48113/152fafeb-31de-48f6-94d1-2da7f481a430"
       (reference "U1") (unit 1) (value "STM32F103C8Tx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
     )
     (path "/162250f7-d927-4da0-b1ba-5afd7e082fc5/80a7e5ef-2327-4700-b5a8-37d90514b621"
-      (reference "U2") (unit 1) (value "LMR16020PDDA") (footprint "MySO:8-PowerSOIC")
+      (reference "U2") (unit 1) (value "LMR16020PDDA") (footprint "Simple_Embedded_PCB:8-PowerSOIC")
     )
     (path "/162250f7-d927-4da0-b1ba-5afd7e082fc5/b07efc5e-573b-4c23-a7d1-4177b82fe425"
       (reference "U3") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
