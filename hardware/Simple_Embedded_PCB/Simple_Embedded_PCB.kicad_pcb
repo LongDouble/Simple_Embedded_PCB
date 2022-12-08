@@ -6325,8 +6325,8 @@
       (net 1 "+3.3V") (pinfunction "Vcc") (pintype "power_in") (tstamp 5549c017-8c90-4bbd-90d4-15ca57c96949))
     (model "${KIPRJMOD}/packages3D/SG-8018CE_4.9152M-TJHSA0.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 90 180 -90))
+      (scale (xyz 1.6 1.6 1.6))
+      (rotate (xyz 90 180 0))
     )
   )
 
